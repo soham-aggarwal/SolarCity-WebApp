@@ -1,4 +1,4 @@
-# SolarCity-WebAppREADME.md
+#README.md
 
 I did not have any experience with the track chosen nor did I know the frameworks used in making this application. I studied from the book 'Mean Machine - The Beginner's Guide to the JavaScript Stack' by Chris Sevilleja and Holly Lloyd. I received some boiler plate code from the book.
 
