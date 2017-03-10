@@ -18,6 +18,6 @@ I have created a RESTful API for the backend of my webapp. Solution is more focu
         2.4 /users/:user_id DELETE - This allows the administrator to delete the data of a specific user. The user is found in the database by the user's name.
 
 ##Done Differently
-    1. Link frontend to backend <br>
-    2. Create a response page when a form is submitted <br>
-    3. Added more functionalities such as search by different parameters <br>
+    1. Link frontend to backend <br/>
+    2. Create a response page when a form is submitted 
+    3. Added more functionalities such as search by different parameters
