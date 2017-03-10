@@ -11,7 +11,7 @@ I have created a RESTful API for the backend of my webapp. Solution is more focu
 
 
 Architecture:
-    1. In user.js, all the required fields are stored.
+    1. In user.js, all the required fields are stored.<br/>
     2. server.js contains the API for the application.
            \n2.1 /users GET - GET requests to the API to retreive the necessary data from the database. The data to return is handled by routing.
         2.2 /users POST - POST requests handle new data from the user. When this occurs the application saves the info as a model. This model is then saved to a MongoDB database. This would happen when the submit button is clicked on the frontend. 
