@@ -1,1 +1,0 @@
-# SolarCity-WebApp
