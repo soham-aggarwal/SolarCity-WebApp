@@ -13,7 +13,7 @@ I have created a RESTful API for the backend of my webapp. Solution is more focu
 Architecture:
     1. In user.js, all the required fields are stored.
     2. server.js contains the API for the application.
-        2.1 /users GET - GET requests to the API to retreive the necessary data from the database. The data to return is handled by routing.
+           \n2.1 /users GET - GET requests to the API to retreive the necessary data from the database. The data to return is handled by routing.
         2.2 /users POST - POST requests handle new data from the user. When this occurs the application saves the info as a model. This model is then saved to a MongoDB database. This would happen when the submit button is clicked on the frontend. 
         2.3 /users/:user_id GET - This allows the administrator to retrieve the data of a specific user. The search is conducted on the basis of the user's name.
         2.4 /users/:user_id DELETE - This allows the administrator to delete the data of a specific user. The user is found in the database by the user's name.
